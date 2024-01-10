@@ -4,9 +4,9 @@
 
     | Language     | Certification Link | Task Status |
     |--------------|:------------------:|:-----------:|
-    | Python       | [Python Institute PCEP](https://pythoninstitute.org/pcep)  | - [ ]    |
-    | Golang       |                                           | - [ ]    |
-    | Perl         |                                           | - [ ]    |
+    | Python       | [Python Institute PCEP](https://pythoninstitute.org/pcep)  | [ ] |
+    | Golang       |                                           |  [ ] |
+    | Perl         |                                           |  [ ] |
 
  - ## **Operating System**
 
